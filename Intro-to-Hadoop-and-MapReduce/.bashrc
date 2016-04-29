@@ -8,27 +8,27 @@ alias hs=run_mapreduce
 
 ##Run code by using the below
 ############################################
-###hs mappy.py reducer.py myinput output2###
+hs mappy.py reducer.py myinput output2###
 ############################################
 
 
 #find out what's on hadoop cluster
 ############################################
-##############hadoop fs -ls#################
-##############hadoop fs -tail###############
+hadoop fs -ls
+hadoop fs -tail
 ############################################
 ---It mirrors standard UNIX command--------
 
 
 #Upload data to Hadoop, rename and delete
 ############################################
-########hadoop fs -put purchase.txt#########
-###hadoop fs -mv purchase.txt newname.txt###
-#########hadoop fs -rm purchase.txt#########
-#########hadoop fs -mkdir myinput###########
+hadoop fs -put purchase.txt
+hadoop fs -mv purchase.txt newname.txt
+hadoop fs -rm purchase.txt
+hadoop fs -mkdir myinput
 ############################################
 
 #Get data from Hadoop cluster
 ############################################
-########hadoop fs -get purchase.txt#########
+hadoop fs -get purchase.txt
 ############################################
