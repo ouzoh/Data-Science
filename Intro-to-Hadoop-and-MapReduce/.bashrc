@@ -12,14 +12,23 @@ alias hs=run_mapreduce
 ############################################
 
 
-#find what on your hadoop cluster
+#find out what's on hadoop cluster
 ############################################
 ##############hadoop fs -ls#################
+##############hadoop fs -tail###############
 ############################################
+---It mirrors standard UNIX command--------
 
 
-#Upload data to Hadoop
+#Upload data to Hadoop, rename and delete
 ############################################
 ########hadoop fs -put purchase.txt#########
+###hadoop fs -mv purchase.txt newname.txt###
+#########hadoop fs -rm purchase.txt#########
+#########hadoop fs -mkdir myinput###########
 ############################################
 
+#Get data from Hadoop cluster
+############################################
+########hadoop fs -get purchase.txt#########
+############################################
