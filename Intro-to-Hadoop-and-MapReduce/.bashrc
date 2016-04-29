@@ -4,3 +4,10 @@ run_mapreduce()
 }
 
 alias hs=run_mapreduce
+
+
+##Run code by using the below
+############################################
+###hs mappy.py reducer.py myinput output2###
+############################################
+
