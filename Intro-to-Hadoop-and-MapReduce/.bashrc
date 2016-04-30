@@ -33,4 +33,6 @@ hadoop fs -mkdir myinput
 hadoop fs -get purchase.txt
 ############################################
 
+hadoop fs -cat joboutput/part-00000 | less
+
 
