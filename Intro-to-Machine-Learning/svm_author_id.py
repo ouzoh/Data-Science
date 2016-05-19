@@ -34,9 +34,11 @@ from sklearn.svm import SVC
 clf = SVC(kernel="linear")
 
 
-#### now your job is to fit the classifier
+#adjust the sample size to reduce the computing time
 features_train = features_train[:len(features_train)/100]
 labels_train = labels_train[:len(labels_train)/100]
+
+#### now your job is to fit the classifier
 #### using the training features/labels, and to
 #### make a set of predictions on the test data
 t0 = time() # timing your NB Classifier
