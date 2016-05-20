@@ -9,7 +9,6 @@
 """
     
 import sys
-import numpy as np
 from time import time
 
 
@@ -61,9 +60,7 @@ print "predicting time:", round(time()-t0, 3), "s" #duration the NB Classifier t
 
 from sklearn.metrics import accuracy_score
 acc = accuracy_score(labels_test, pred)
-
-
+print "The accuracy is:", acc
 
 def submitAccuracy():
     return acc
-
