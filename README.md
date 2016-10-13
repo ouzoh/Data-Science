@@ -33,9 +33,6 @@ Python codes and comments
 ######1. Coming soon...
 
 
-###Go to Data Science repository for Python scripts 
-www.github.com/ouzoh/Data-Science/tree/master/Programming-Foundations-with-Python
-
 
 
 
