@@ -1,4 +1,4 @@
-# Data Science project portfolio
+# Data Science Portfolio
 
 ## Objective:
 
