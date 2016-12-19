@@ -1,1 +1,6 @@
-This objective of this project is to create re-useable datascience portfolios.
+# Objective:
+
+* Exploratory Data Analysis
+* Data Visualization 
+* Create re-useable datascience portfolios.
+* Explore various machine learning algoirthms.
