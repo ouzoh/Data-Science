@@ -17,12 +17,10 @@ bash Anaconda-2.3.0-Linux-x86.sh
 ## Install Jupyter Notebook
 Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science [http://jupyter.readthedocs.io/en/latest/install.html#id3]. If your anaconda does not have Jupyter Notebook, you install via:
 
-######1. pip3 install --upgrade pip
-
-######2. pip3 install jupyter
+1. pip3 install --upgrade pip
+2. pip3 install jupyter
       (Use pip if using legacy Python 2.)
-      
-######3. Done.
+3. Done.
 
 ## (Optional) Install Jupyter Notebook theme
 ######1. pip install jupyterthemes
