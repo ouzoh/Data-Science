@@ -23,10 +23,10 @@ Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly 
 3. Done.
 
 ## (Optional) Install Jupyter Notebook theme
-######1. pip install jupyterthemes
-You can play around with the themes: https://github.com/dunovank/jupyter-themes
-######2. Select a theme and more e.g.
-      jt -t onedork -tfs 12 -tf loraserif -nf exosans -alt
+1. pip install jupyterthemes
+> You can play around with the themes: https://github.com/dunovank/jupyter-themes
+2. Select a theme and more e.g.
+> jt -t onedork -tfs 12 -tf loraserif -nf exosans -alt
   
       
 ## Python
