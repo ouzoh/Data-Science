@@ -52,10 +52,10 @@ Python codes and comments
 
 ## Installing Scala and Apache Spark
 
-## Mac OS
+### Mac OS
 https://medium.com/@josemarcialportilla/installing-scala-and-apache-spark-on-mac-os-837ae57d283f
 
-## Windows
+### Windows
 https://medium.com/@josemarcialportilla/installing-scala-and-spark-on-windows-249632e6b83b
 
 
