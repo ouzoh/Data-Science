@@ -32,7 +32,7 @@ Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly 
 ## Python
 Python codes and comments
 
-###Installation
+## Installation
 1. Go to www.python.org and install python 2.x or 3.x
 2. Go to cmd promt and set PATH (e.g. for 2.7)
 > setx PATH "c:\Python27"
@@ -50,10 +50,13 @@ Python codes and comments
       Interpreter Executable: c:\Python27\python.exe
 5. Done.
 
-## Bonus (Optimizing Eclipse Interface for Coding)
-1. Coming soon...
+## Installing Scala and Apache Spark
 
+## Mac OS
+https://medium.com/@josemarcialportilla/installing-scala-and-apache-spark-on-mac-os-837ae57d283f
 
+## Windows
+https://medium.com/@josemarcialportilla/installing-scala-and-spark-on-windows-249632e6b83b
 
 
 
