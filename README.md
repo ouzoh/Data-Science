@@ -32,7 +32,7 @@ Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly 
 ## Python
 Python codes and comments
 
-## Installation
+### Installation
 1. Go to www.python.org and install python 2.x or 3.x
 2. Go to cmd promt and set PATH (e.g. for 2.7)
 > setx PATH "c:\Python27"
